@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-extend-grid",
+  "homepage": "https://github.com/artemhp/bootstrap-extend-grid",
+  "authors": [
+    "Artem Deikun <artemhp@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
